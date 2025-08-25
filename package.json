@@ -1,0 +1,27 @@
+{
+  "name": "@hyrious/tsdown-456",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "tsdown-456",
+  "author": "hyrious <hyrious@outlook.com>",
+  "license": "MIT",
+  "repository": "hyrious/tsdown-456",
+  "keywords": [
+    "tsdown",
+    "456"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsdown"
+  },
+  "devDependencies": {
+    "@hyrious/configs": "^0.1.4",
+    "tsdown": "^0.14.1",
+    "vite": "^7.1.3"
+  }
+}
