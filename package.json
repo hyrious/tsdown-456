@@ -21,7 +21,8 @@
   },
   "devDependencies": {
     "@hyrious/configs": "^0.1.4",
-    "tsdown": "^0.14.1",
+    "sass": "^1.97.3",
+    "tsdown": "https://pkg.pr.new/tsdown@dbe3cc9",
     "vite": "^7.1.3"
   }
 }
